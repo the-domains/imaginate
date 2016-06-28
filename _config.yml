@@ -1,0 +1,14 @@
+layout_spectrum: 0.2535813432186842
+typography_spectrum: 0.8915711587760597
+color:
+  brandStrength: 0.09569160058163106
+  lightness: 0.4975225671660155
+  saturation: 0.1824328084476292
+  rhythmicContrast: 0.14826540439389646
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Imaginate
